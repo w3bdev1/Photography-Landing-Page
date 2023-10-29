@@ -271,4 +271,8 @@ nav {
     #menu-check:checked~.burger span:nth-child(3) {
         transform: rotateZ(-45deg) translateY(-300%);
     }
+
+    .hero {
+        width: 100%;
+    }
 }
